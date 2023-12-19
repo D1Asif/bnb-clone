@@ -9,6 +9,8 @@
 6. TypeScript
 7. NextAuth
 8. Vercel (for deployment)
+9. Cloudinary (for image upload)
+10. Other packages used: axios, bcrypt, date-fns, react-date-range, leaflet, react-leaflet, react-hook-form, react-hot-toast, react-icons, react-spinners, world-countries, zustand
 
 ## Functionalities:
 **Authentication**: User can register with email and password or sign up with google or github  
