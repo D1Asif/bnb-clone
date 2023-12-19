@@ -1,3 +1,4 @@
+# Airbnb Clone App
 ## Live Site Link: https://bnb-clone-theta.vercel.app/
 ## Technologies used:
 1. React
@@ -8,3 +9,5 @@
 6. TypeScript
 7. NextAuth
 8. Vercel (for deployment)
+
+## Functionalities:
