@@ -14,4 +14,7 @@
 **Authentication**: User can register with email and password or sign up with google or github  
 **Home**: All the listings are displayed in the home page  
 **Filter**: User can filter listings according to the user's preferences  
-**Favourite**: Users can favourite their favourite listings  
+**Favourite**: Users can favourite their favourite listings and find all the favourites in the "My Favourites" page  
+**List Properties**: User can list their properties with details in the app. All the listed properties can be found in the My Properties Page.  
+**Reservation**: User can book or cancel a property and find all the reservations in the "My Trips" page. Property owner can find all the reservations in their property in the "My Reservations" page
+
